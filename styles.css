@@ -1,0 +1,38 @@
+body{
+    background-color:#FFF8EA;
+}
+.main {
+    padding: 20px;
+    font-family: 'Helvetica', serif;
+    box-shadow: 3px 3px 3px 3px #9E7676;
+    background-color: #D0B8A8;
+   position:relative;
+   top:155px;
+}
+
+.main h1 {
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Helvetica', serif;
+}
+
+input {
+    font-family: 'Helvetica', serif;
+    width: 100%;
+    font-size: 20px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: none;
+    border-bottom: 2px solid #767474;
+}
+
+input[type=submit] {
+    font-family: 'Helvetica', serif;
+    width: 100%;
+    background-color: #594545;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    margin: 4px 2px;
+    border-radius: 10px;
+}
